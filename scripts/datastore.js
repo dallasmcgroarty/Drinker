@@ -2,7 +2,7 @@
   'use strict';
   var App = window.App || {};
 
-  function DataStore() {
+  function DataStore () {
     this.data = {};
   }
 
