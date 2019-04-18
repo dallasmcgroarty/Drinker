@@ -1,6 +1,10 @@
 # Form
-basic form page using bootstrap/html
+basic form page for ordering drinks using bootstrap/html/javascript/jQuery
 
-adding javascript for data storing and validation
+updates pending orders under form
+
+Stores data to remote server using jQuery
+
+Project part of the book "Front-End Web Development by The Big Nerd Ranch Guide"
 
 Url--> https://dallasmcgroarty.github.io/Drinker
