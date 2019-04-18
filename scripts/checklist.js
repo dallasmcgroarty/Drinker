@@ -50,11 +50,7 @@
     });
 
     var description = coffeeOrder.size + ' ';
-    if (coffeeOrder.flavor) {
-      description += coffeeOrder.flavor + ' ';
-    }
-
-    description += coffeeOrder.drink + ', ';
+    description += coffeeOrder.coffee + ', ';
     description += ' (' + coffeeOrder.emailAddress + ')';
     description += ' [' + coffeeOrder.strength + 'x]';
 
